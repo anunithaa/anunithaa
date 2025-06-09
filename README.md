@@ -1,5 +1,5 @@
 ## Hey, I'm Anunithaa :)
-<div style="width: 100%; height: 80px; overflow: hidden; border-radius: 12px; margin-bottom: 20px;">
+<div style="width: 20px; height: 80px; overflow: hidden; border-radius: 12px; margin-bottom: 20px;">
   <img
     src="https://images.unsplash.com/photo-1464802686167-b939a6910659"
     alt="Aesthetic banner"
