@@ -1,5 +1,5 @@
 ## Hey, I'm Anunithaa :)
-<img src="https://images.unsplash.com/photo-1464802686167-b939a6910659" alt="Galazy" width="100%" style="border-radius: 12px; margin-bottom: 20px;"/>
+<img src="https://images.unsplash.com/photo-1464802686167-b939a6910659" alt="Galazy" width="100%" height: 80px style="border-radius: 12px; margin-bottom: 20px;"/>
 
 I'm a sophomore at the University of Maryland, majoring in computer engineering and planning to minor in quantum computing!
 
