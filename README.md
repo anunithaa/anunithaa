@@ -1,5 +1,5 @@
 ## Hey, I'm Anunithaa :)
-I'm a sophomore at the University of Maryland, majoring in computer engineering and planning to minor in quantum computing!
+I'm a sophomore at the University of Maryland, majoring in computer engineering with an interest in social good!
 
 ### I'm learning ✨
 <div display="flex">
